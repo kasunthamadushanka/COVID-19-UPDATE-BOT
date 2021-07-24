@@ -59,7 +59,7 @@
 
 - [Jaindu Charindith](https://github.com/jaindu)
 - [Uvindu Bro Co](https://github.com/UvinduBroCo)
-- [Original Repo](https://github.com/youtubeslgeekshow/covid-update-bot.git)
+
 
 
 
